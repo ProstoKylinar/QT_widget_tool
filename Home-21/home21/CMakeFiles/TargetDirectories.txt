@@ -1,0 +1,3 @@
+/home/vboxuser/Desktop/Home-21/home21/CMakeFiles/rebuild_cache.dir
+/home/vboxuser/Desktop/Home-21/home21/CMakeFiles/edit_cache.dir
+/home/vboxuser/Desktop/Home-21/home21/CMakeFiles/home21.dir

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vboxuser/Desktop/Home-21/home21/main.cpp
+stdio.h
+-
+iostream
+-
+sys/socket.h
+-
+netinet/in.h
+-
+netinet/ip.h
+-
+netinet/ip_icmp.h
+-
+arpa/inet.h
+-
+sys/types.h
+-
+sys/time.h
+-
+unistd.h
+-
+netdb.h
+-
+string.h
+-
+
