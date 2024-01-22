@@ -1,1 +1,2 @@
-# QT_widget_tool
+# QT_projects
+Проекты Lab-number содержат проекты на QT, проекты Home и Work, связаны с сетевым взаимодействием
